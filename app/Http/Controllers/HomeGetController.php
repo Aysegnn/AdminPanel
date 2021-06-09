@@ -14,6 +14,7 @@ class HomeGetController extends Controller
     public function index()
     {
         return view('backend.index');
+        
     }
 
     /**
